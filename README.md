@@ -104,6 +104,10 @@
 
 ###
 
+![snake animation](https://github.com/Khryzen/Khryzen/blob/output/github-contribution-grid-snake2.svg)
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Khryzen/Khryzen/output/snake.svg" alt="Snake animation" />
