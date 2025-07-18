@@ -1,5 +1,24 @@
 # 💫 About Me:
-👋 Hello! I'm Khryzen from Puerto Galera<br>I'm a Full Stack Developer passionate about building robust and scalable applications from backend to frontend. My stack centers around Golang for backend services and HTML, CSS, JavaScript, and TypeScript for frontend development.<br><br>🔧 Tech Stack & Tools<br>Backend: Go (Golang), Node.js, Django, Flask<br>Frontend: HTML, CSS, JS/TS, React, Vue<br>Mobile: Flutter, Kotlin, Java, C#, Dart<br>Databases: MySQL (preferred), PostgreSQL<br>DevOps: Docker, Kubernetes, GitHub Actions, AWS<br>Deployment: GitHub Pages, Netlify, Docker, K8s, AWS<br>Machine Learning: TensorFlow, PyTorch (Computer Vision focused)<br>Other Languages: C, C++, C#<br><br>💡 What I Do<br>Build modern web apps with Go backends and dynamic JS frontends<br>Deploy scalable apps across cloud or containerized environments<br>Develop mobile apps with Flutter, Java, or Kotlin<br>Create intelligent computer vision models using PyTorch and TensorFlow<br>Maintain clean, modular codebases using Git and GitHub<br><br>🚀 Always Learning<br>I’m continuously exploring how to bridge software with AI, education, and real-world solutions.
+👋 Hello! I'm Khryzen from Puerto Galera<br>
+I'm a Full Stack Developer passionate about building robust and scalable applications from backend to frontend. 
+My stack centers around Golang for backend services and HTML, CSS, JavaScript, and TypeScript for frontend development.<br>
+<br>🔧 Tech Stack & Tools<br>
+- Backend: Go (Golang), Node.js, Django, Flask<br>
+- Frontend: HTML, CSS, JS/TS, React, Vue<br>
+- Mobile: Flutter, Kotlin, Java, C#, Dart<br>
+- Databases: MySQL (preferred), PostgreSQL<br>
+- DevOps: Docker, Kubernetes, GitHub Actions, AWS<br>
+- Deployment: GitHub Pages, Netlify, Docker, K8s, AWS<br>
+- Machine Learning: TensorFlow, PyTorch (Computer Vision focused)<br>
+- Other Languages: C, C++, C#<br>
+<br>💡 What I Do<br>
+- Build modern web apps with Go backends and dynamic JS frontends<br>
+- Deploy scalable apps across cloud or containerized environments<br>
+- Develop mobile apps with Flutter, Java, or Kotlin<br>
+- Create intelligent computer vision models using PyTorch and TensorFlow<br>
+- Maintain clean, modular codebases using Git and GitHub<br><br>
+🚀 Always Learning<br>
+- I’m continuously exploring how to bridge software with AI, education, and real-world solutions.
 
 
 ## 🌐 Socials:
